@@ -1,0 +1,1026 @@
+{
+  "user": [],
+  "coverimg": [
+    {
+      "img_id": 1,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/a7d3676a-9694-4a84-835e-0408fdad884b1598892377407-Nike.jpg",
+      "id": "wNKQLUvRMTE"
+    },
+    {
+      "img_id": 2,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/0206da63-a7cc-4f83-8527-90d7dc74706b1598892377489-Skechers.jpg",
+      "id": "7ESK_Ju5T8g"
+    },
+    {
+      "img_id": 3,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/8d5afb84-a464-40af-9971-2e9f0827e9b71598892377591-UCB.jpg",
+      "id": "kYgTyZJax4c"
+    },
+    {
+      "img_id": 4,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/af31285e-f6a3-426e-bbea-0aedef9da17c1598892377537-Tommy-Hilfiger.jpg",
+      "id": "n08WR8QTstc"
+    },
+    {
+      "img_id": 5,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/1dce9c3e-77fa-48f1-85a3-d3c136c1d73e1598892377652-USPA.jpg",
+      "id": "GBWgaO9elzc"
+    },
+    {
+      "img_id": 6,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/3fa337a0-c792-4038-8d12-50d463c189a11598892377363-Levis.jpg",
+      "id": "5VMqseXotfc"
+    },
+    {
+      "img_id": 7,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/cec595c6-c7ec-4259-af8b-997a33a09ce71598892377444-Puma.jpg",
+      "id": "WhnkOksTSCc"
+    },
+    {
+      "img_id": 8,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/8d5afb84-a464-40af-9971-2e9f0827e9b71598892377591-UCB.jpg",
+      "id": "fhU-aF01424"
+    },
+    {
+      "img_id": 9,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/d977e7ac-67dd-4fa6-b922-fe0057385dfa1598892377205-Crocs.jpg",
+      "id": "6U--1z8v7-k"
+    },
+    {
+      "img_id": 10,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/c9f66558-feab-4d76-aa3c-adc68d81dce21598348260415-Levis.jpg",
+      "id": "sGKSoPWLuMk"
+    },
+    {
+      "img_id": 11,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/5/774f42c4-f459-4514-9b90-cf8a60a5f68c1596644478087-hrx30.jpg",
+      "id": "CP3_IsYzUbU"
+    },
+    {
+      "img_id": 12,
+      "category": "women",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/3fd040fc-431d-4060-9469-f0c11b7329121559216916380-women-category-cards_06_tshirts.jpg",
+      "id": "mzbjxUrcKTs"
+    },
+    {
+      "img_id": 13,
+      "category": "women",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/a876ce8c-5b1d-4b87-a5cd-626f20b8c1171559216916411-women-category-cards_03_tops.jpg",
+      "id": "ONiiU--OY9c"
+    },
+    {
+      "img_id": 14,
+      "category": "women",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/6916789c-0e4e-4e70-860b-7bed6af846681559216916445-women-category-cards_01_kurtas.jpg",
+      "id": "u8BCrfKg4X0"
+    },
+    {
+      "img_id": 15,
+      "category": "men",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/c05e6606-cd11-4d96-895c-b1b8defc2d871559216808925-Men-category-cards_03_casual_shoes.jpg",
+      "id": "Ri1flE5VbrU"
+    },
+    {
+      "img_id": 16,
+      "category": "men",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Men-category-cards_04_jeans.jpg",
+      "id": "Acrom_05NJs"
+    },
+    {
+      "img_id": 17,
+      "category": "men",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg",
+      "id": "TnuUwuKJ-4s"
+    },
+    {
+      "img_id": 18,
+      "category": "men",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/f8262050-fe52-4390-98b8-21c634e09bae1559216808891-Men-category-cards_06_trousers.jpg",
+      "id": "LsPbG09SwDg"
+    },
+    {
+      "img_id": 19,
+      "category": "men",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/ac2715e2-b2e6-41a8-9f91-79ed52d5eacb1559216808902-Men-category-cards_05_sports_shoes.jpg",
+      "id": "NctO0YE_y9Y"
+    },
+    {
+      "img_id": 20,
+      "category": "women",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/7a363be2-002c-45a0-96b0-30c359ab7f5b1559216916421-women-category-cards_02_dresses.jpg",
+      "id": "bG05SdzwMmw"
+    },
+    {
+      "img_id": 21,
+      "category": "men",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/3c637a0a-0cda-45a7-8ce8-5bb212d4b6411559216808935-Men-category-cards_02_shirts.jpg",
+      "id": "V9i8rhwAAZQ"
+    },
+    {
+      "img_id": 22,
+      "category": "women",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/2a0ce60a-4d10-4e61-8c0a-f59f377213d51559216916390-women-category-cards_05_jeans.jpg",
+      "id": "wOgbKN0lxVA"
+    },
+    {
+      "img_id": 23,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/5e68d729-b955-431c-930c-931d8b452d421597840217983-Content-accessories-color-white.png",
+      "id": "KYMpN_OYrW4"
+    },
+    {
+      "img_id": 24,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/65bafbc5-f83b-4158-8168-f7553043814c1597841103082-Content-sportswear-brand-Asics.png",
+      "id": "us24fPdgxMg"
+    },
+    {
+      "img_id": 25,
+      "category": "women",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/9d248917-d1b0-4910-8de0-4ed7c2b4af8e1595935030939-Content-ethnicwear-trends-printedkurtaset.jpg",
+      "id": "nHFF3fnkQvk"
+    },
+    {
+      "img_id": 26,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/9654b0f9-42a9-4111-a4b7-27b26c5a22d41595935221284-Content-Footwear-Unisex-Sneakers-for-Dancers_.jpg",
+      "id": "bWvZOjQb1Co"
+    },
+    {
+      "img_id": 27,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/2bcf907c-bc21-44cb-9021-7575a963b0ef1595934830671-Content-Accesories-Unisex-True-wirless-lets-get-free.jpg",
+      "id": "lJpYbqnMayA"
+    },
+    {
+      "img_id": 28,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/274b3659-420d-43c2-8e4c-17249e6eaf8d1597840218139-Content-accessories-trend-minimalist.png",
+      "id": "OJAveSuv4xo"
+    },
+    {
+      "img_id": 29,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2020/8/20/be0b0d6f-7c72-4752-859f-ee44902ff7171597912691244-Content-footwear-trend-sneakersmen.jpg",
+      "id": "rN7rX8OFAEs"
+    },
+    {
+      "img_id": 30,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2020/8/21/eedc6c0c-c28b-4ccb-952f-a302c96c59ba1598030134978-Content-mostselling-Sportswear-Nikerevolution.jpeg",
+      "id": "evoMVc9QHjM"
+    },
+    {
+      "img_id": 31,
+      "category": "women",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/83d9ca97-4aa3-46ce-bd28-b135d3b94a021595935030673-Content-ethnicwear-essentials-everydaykurtas.jpg",
+      "id": "0bFNgPAE40c"
+    },
+    {
+      "img_id": 32,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/4aa58fe6-8c61-4e37-9fa8-436c31aecb211597840566511-Content-sportswear-essentials-activewear.png",
+      "id": "wj0tzsMInlU"
+    },
+    {
+      "img_id": 33,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/49dd1ce9-d627-4c6e-b544-4be7e1f24a091597840342867-Content-footwear-essentials-flipflops.jpg",
+      "id": "BUWLXBb06wk"
+    },
+    {
+      "img_id": 34,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/bddd9c73-e4f1-43c0-a073-2ff3c0e376b51595934830554-Content-Accesories-men-Sporty-Watches_.jpg",
+      "id": "tQtU9FN2Cag"
+    },
+    {
+      "img_id": 35,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/8363b55c-446f-4de2-bc5b-e75fd6fdfb2d1597840217862-Content-accessories-brand-fastrack.png",
+      "id": "CEPIfnvmJ90"
+    },
+    {
+      "img_id": 36,
+      "category": "women",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/a9f68785-e282-425a-b270-c978c387b0f31597840342635-Content-ethnicwear-color-whites.jpg",
+      "id": "vWsMKJZ2xEI"
+    },
+    {
+      "img_id": 37,
+      "category": "unisex",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/a84d687a-1ff3-4b06-a47b-48021ba7cec11597840342959-Content-footwear-occasion-outbackoutdoor.png",
+      "id": "o-0RBKDMV1c"
+    },
+    {
+      "img_id": 38,
+      "category": "men",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/bddd9c73-e4f1-43c0-a073-2ff3c0e376b51595934830554-Content-Accesories-men-Sporty-Watches_.jpg",
+      "id": "Sma8SHFShnA"
+    }
+  ],
+  "product": [
+    {
+      "product_id": "PROD001",
+      "category": "men",
+      "product_name": "Nike Sports Running Shoes",
+      "brand": "Nike",
+      "description": "Lightweight and comfortable sports running shoes for men.",
+      "price": 2499,
+      "original_price": 4999,
+      "discount": "50%",
+      "rating": 4.5,
+      "rating_count": 1824,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/a7d3676a-9694-4a84-835e-0408fdad884b1598892377407-Nike.jpg",
+      "id": "DyiGaQxn1gU"
+    },
+    {
+      "product_id": "PROD002",
+      "category": "men",
+      "product_name": "Skechers Walking Shoes",
+      "brand": "Skechers",
+      "description": "Comfortable everyday walking shoes with cushioned support.",
+      "price": 2799,
+      "original_price": 5499,
+      "discount": "49%",
+      "rating": 4.4,
+      "rating_count": 1456,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Grey",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/0206da63-a7cc-4f83-8527-90d7dc74706b1598892377489-Skechers.jpg",
+      "id": "Dfy8egFR4nE"
+    },
+    {
+      "product_id": "PROD003",
+      "category": "men",
+      "product_name": "UCB Casual T-Shirt",
+      "brand": "United Colors of Benetton",
+      "description": "Premium casual T-shirt designed for everyday comfort.",
+      "price": 899,
+      "original_price": 1799,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 978,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Blue",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/8d5afb84-a464-40af-9971-2e9f0827e9b71598892377591-UCB.jpg",
+      "id": "7SaBoEO2Qoo"
+    },
+    {
+      "product_id": "PROD004",
+      "category": "men",
+      "product_name": "Tommy Hilfiger Casual Shirt",
+      "brand": "Tommy Hilfiger",
+      "description": "Classic casual shirt with a premium modern fit.",
+      "price": 1899,
+      "original_price": 3999,
+      "discount": "53%",
+      "rating": 4.5,
+      "rating_count": 1245,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "White",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/af31285e-f6a3-426e-bbea-0aedef9da17c1598892377537-Tommy-Hilfiger.jpg",
+      "id": "Rb9G23Kp0YQ"
+    },
+    {
+      "product_id": "PROD005",
+      "category": "men",
+      "product_name": "US Polo Association Polo T-Shirt",
+      "brand": "US Polo Association",
+      "description": "Classic polo T-shirt with a comfortable regular fit.",
+      "price": 1199,
+      "original_price": 2499,
+      "discount": "52%",
+      "rating": 4.4,
+      "rating_count": 1678,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Navy Blue",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/1dce9c3e-77fa-48f1-85a3-d3c136c1d73e1598892377652-USPA.jpg",
+      "id": "ghmeY-VaYSY"
+    },
+    {
+      "product_id": "PROD006",
+      "category": "men",
+      "product_name": "Levis Slim Fit Jeans",
+      "brand": "Levis",
+      "description": "Stylish slim-fit denim jeans suitable for casual occasions.",
+      "price": 1699,
+      "original_price": 3499,
+      "discount": "51%",
+      "rating": 4.5,
+      "rating_count": 2356,
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "color": "Blue",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/3fa337a0-c792-4038-8d12-50d463c189a11598892377363-Levis.jpg",
+      "id": "onygE8sn3Q0"
+    },
+    {
+      "product_id": "PROD007",
+      "category": "men",
+      "product_name": "Puma Sports Sneakers",
+      "brand": "Puma",
+      "description": "Sporty sneakers offering comfort and everyday performance.",
+      "price": 2199,
+      "original_price": 4499,
+      "discount": "51%",
+      "rating": 4.4,
+      "rating_count": 1987,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "White",
+      "img_url": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/cec595c6-c7ec-4259-af8b-997a33a09ce71598892377444-Puma.jpg",
+      "id": "iZZxnpK0_iQ"
+    },
+    {
+      "product_id": "PROD008",
+      "category": "men",
+      "product_name": "UCB Casual T-Shirt",
+      "brand": "United Colors of Benetton",
+      "description": "Comfortable casual T-shirt with a contemporary design.",
+      "price": 799,
+      "original_price": 1599,
+      "discount": "50%",
+      "rating": 4.2,
+      "rating_count": 745,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Green",
+      "img_url": "https://assets.myntassets.com/w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/8d5afb84-a464-40af-9971-2e9f0827e9b71598892377591-UCB.jpg",
+      "id": "dzQPnnTIftc"
+    },
+    {
+      "product_id": "PROD009",
+      "category": "unisex",
+      "product_name": "Crocs Classic Clogs",
+      "brand": "Crocs",
+      "description": "Lightweight and versatile clogs suitable for everyday wear.",
+      "price": 1799,
+      "original_price": 2999,
+      "discount": "40%",
+      "rating": 4.6,
+      "rating_count": 3245,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "White",
+      "img_url": "https://assets.myntassets.com/w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/d977e7ac-67dd-4fa6-b922-fe0057385dfa1598892377205-Crocs.jpg",
+      "id": "JeoheRf6wBM"
+    },
+    {
+      "product_id": "PROD010",
+      "category": "men",
+      "product_name": "Levis Casual Denim Jeans",
+      "brand": "Levis",
+      "description": "Classic denim jeans designed for everyday casual styling.",
+      "price": 1599,
+      "original_price": 3299,
+      "discount": "52%",
+      "rating": 4.4,
+      "rating_count": 1890,
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "color": "Dark Blue",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/c9f66558-feab-4d76-aa3c-adc68d81dce21598348260415-Levis.jpg",
+      "id": "8HflllsP96Y"
+    },
+    {
+      "product_id": "PROD011",
+      "category": "men",
+      "product_name": "HRX Active Sportswear",
+      "brand": "HRX",
+      "description": "Performance-focused activewear designed for workouts and training.",
+      "price": 999,
+      "original_price": 1999,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 1123,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/5/774f42c4-f459-4514-9b90-cf8a60a5f68c1596644478087-hrx30.jpg",
+      "id": "9SijIWZ1wpk"
+    },
+    {
+      "product_id": "PROD012",
+      "category": "women",
+      "product_name": "Women Casual T-Shirt",
+      "brand": "Myntra",
+      "description": "Soft and comfortable casual T-shirt for everyday styling.",
+      "price": 699,
+      "original_price": 1399,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 876,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Pink",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/3fd040fc-431d-4060-9469-f0c11b7329121559216916380-women-category-cards_06_tshirts.jpg",
+      "id": "NAETxh_62Ck"
+    },
+    {
+      "product_id": "PROD013",
+      "category": "women",
+      "product_name": "Women Stylish Top",
+      "brand": "Myntra",
+      "description": "Trendy women's top suitable for casual and semi-casual occasions.",
+      "price": 799,
+      "original_price": 1599,
+      "discount": "50%",
+      "rating": 4.4,
+      "rating_count": 945,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Yellow",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/a876ce8c-5b1d-4b87-a5cd-626f20b8c1171559216916411-women-category-cards_03_tops.jpg",
+      "id": "jAmOn2n8VFw"
+    },
+    {
+      "product_id": "PROD014",
+      "category": "women",
+      "product_name": "Women Ethnic Kurta",
+      "brand": "Myntra",
+      "description": "Elegant ethnic kurta designed for comfortable everyday wear.",
+      "price": 899,
+      "original_price": 1799,
+      "discount": "50%",
+      "rating": 4.5,
+      "rating_count": 1567,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Maroon",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/6916789c-0e4e-4e70-860b-7bed6af846681559216916445-women-category-cards_01_kurtas.jpg",
+      "id": "_hLfvE9gEFw"
+    },
+    {
+      "product_id": "PROD015",
+      "category": "men",
+      "product_name": "Men Casual Shoes",
+      "brand": "Myntra",
+      "description": "Versatile casual shoes designed for everyday outfits.",
+      "price": 1299,
+      "original_price": 2599,
+      "discount": "50%",
+      "rating": 4.2,
+      "rating_count": 834,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Brown",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/c05e6606-cd11-4d96-895c-b1b8defc2d871559216808925-Men-category-cards_03_casual_shoes.jpg",
+      "id": "RO9qlTUP5G0"
+    },
+    {
+      "product_id": "PROD016",
+      "category": "men",
+      "product_name": "Men Slim Fit Jeans",
+      "brand": "Myntra",
+      "description": "Modern slim-fit jeans for casual everyday styling.",
+      "price": 1399,
+      "original_price": 2799,
+      "discount": "50%",
+      "rating": 4.4,
+      "rating_count": 1345,
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "color": "Blue",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Men-category-cards_04_jeans.jpg",
+      "id": "3y7OUEmohU8"
+    },
+    {
+      "product_id": "PROD017",
+      "category": "men",
+      "product_name": "Men Basic T-Shirt",
+      "brand": "Myntra",
+      "description": "Comfortable basic cotton T-shirt for daily wear.",
+      "price": 599,
+      "original_price": 1199,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 2187,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Black",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg",
+      "id": "bwVTorifOPs"
+    },
+    {
+      "product_id": "PROD018",
+      "category": "men",
+      "product_name": "Men Formal Trousers",
+      "brand": "Myntra",
+      "description": "Smart formal trousers suitable for office and formal occasions.",
+      "price": 1199,
+      "original_price": 2399,
+      "discount": "50%",
+      "rating": 4.2,
+      "rating_count": 678,
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "color": "Grey",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/f8262050-fe52-4390-98b8-21c634e09bae1559216808891-Men-category-cards_06_trousers.jpg",
+      "id": "-dpOk6oj690"
+    },
+    {
+      "product_id": "PROD019",
+      "category": "men",
+      "product_name": "Men Sports Running Shoes",
+      "brand": "Myntra",
+      "description": "Lightweight sports shoes designed for running and workouts.",
+      "price": 1499,
+      "original_price": 2999,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 987,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Blue",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/ac2715e2-b2e6-41a8-9f91-79ed52d5eacb1559216808902-Men-category-cards_05_sports_shoes.jpg",
+      "id": "CFiAsvuNYVU"
+    },
+    {
+      "product_id": "PROD020",
+      "category": "women",
+      "product_name": "Women Casual Dress",
+      "brand": "Myntra",
+      "description": "Stylish casual dress designed for comfortable everyday wear.",
+      "price": 1099,
+      "original_price": 2199,
+      "discount": "50%",
+      "rating": 4.5,
+      "rating_count": 1234,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Red",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/7a363be2-002c-45a0-96b0-30c359ab7f5b1559216916421-women-category-cards_02_dresses.jpg",
+      "id": "tpHHwm8-_mo"
+    },
+    {
+      "product_id": "PROD021",
+      "category": "men",
+      "product_name": "Men Casual Shirt",
+      "brand": "Myntra",
+      "description": "Comfortable casual shirt with a stylish everyday design.",
+      "price": 899,
+      "original_price": 1799,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 865,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "White",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/3c637a0a-0cda-45a7-8ce8-5bb212d4b6411559216808935-Men-category-cards_02_shirts.jpg",
+      "id": "yYqvsNMrI40"
+    },
+    {
+      "product_id": "PROD022",
+      "category": "women",
+      "product_name": "Women Slim Fit Jeans",
+      "brand": "Myntra",
+      "description": "Trendy women's jeans with a comfortable slim fit.",
+      "price": 1299,
+      "original_price": 2599,
+      "discount": "50%",
+      "rating": 4.4,
+      "rating_count": 1456,
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "color": "Blue",
+      "img_url": "https://constant.myntassets.com/pwa/assets/img/2a0ce60a-4d10-4e61-8c0a-f59f377213d51559216916390-women-category-cards_05_jeans.jpg",
+      "id": "jLgGSTaEpF8"
+    },
+    {
+      "product_id": "PROD023",
+      "category": "unisex",
+      "product_name": "White Fashion Accessories",
+      "brand": "Myntra",
+      "description": "Minimal fashion accessories designed for everyday styling.",
+      "price": 499,
+      "original_price": 999,
+      "discount": "50%",
+      "rating": 4.2,
+      "rating_count": 567,
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "color": "White",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/5e68d729-b955-431c-930c-931d8b452d421597840217983-Content-accessories-color-white.png",
+      "id": "SuQcCY90bV4"
+    },
+    {
+      "product_id": "PROD024",
+      "category": "unisex",
+      "product_name": "ASICS Sportswear",
+      "brand": "ASICS",
+      "description": "Performance sportswear designed for active lifestyles and workouts.",
+      "price": 1599,
+      "original_price": 3199,
+      "discount": "50%",
+      "rating": 4.5,
+      "rating_count": 1128,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/65bafbc5-f83b-4158-8168-f7553043814c1597841103082-Content-sportswear-brand-Asics.png",
+      "id": "5XNMpm_bicg"
+    },
+    {
+      "product_id": "PROD025",
+      "category": "women",
+      "product_name": "Women Printed Kurta Set",
+      "brand": "Myntra",
+      "description": "Beautiful printed ethnic kurta set suitable for festive and casual occasions.",
+      "price": 1299,
+      "original_price": 2599,
+      "discount": "50%",
+      "rating": 4.4,
+      "rating_count": 987,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Pink",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/9d248917-d1b0-4910-8de0-4ed7c2b4af8e1595935030939-Content-ethnicwear-trends-printedkurtaset.jpg",
+      "id": "77HuT9QawGI"
+    },
+    {
+      "product_id": "PROD026",
+      "category": "unisex",
+      "product_name": "Unisex Fashion Sneakers",
+      "brand": "Myntra",
+      "description": "Trendy sneakers designed for casual everyday outfits.",
+      "price": 1199,
+      "original_price": 2399,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 1567,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "White",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/9654b0f9-42a9-4111-a4b7-27b26c5a22d41595935221284-Content-Footwear-Unisex-Sneakers-for-Dancers_.jpg",
+      "id": "LxquXLsZMro"
+    },
+    {
+      "product_id": "PROD027",
+      "category": "unisex",
+      "product_name": "True Wireless Earbuds",
+      "brand": "Myntra",
+      "description": "Compact true wireless earbuds with a modern design.",
+      "price": 999,
+      "original_price": 1999,
+      "discount": "50%",
+      "rating": 4.1,
+      "rating_count": 734,
+      "sizes": [
+        "One Size"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/2bcf907c-bc21-44cb-9021-7575a963b0ef1595934830671-Content-Accesories-Unisex-True-wirless-lets-get-free.jpg",
+      "id": "-QlyUrzX-RQ"
+    },
+    {
+      "product_id": "PROD028",
+      "category": "unisex",
+      "product_name": "Minimalist Fashion Accessories",
+      "brand": "Myntra",
+      "description": "Minimalist accessories designed to complement modern outfits.",
+      "price": 699,
+      "original_price": 1399,
+      "discount": "50%",
+      "rating": 4.2,
+      "rating_count": 489,
+      "sizes": [
+        "One Size"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/274b3659-420d-43c2-8e4c-17249e6eaf8d1597840218139-Content-accessories-trend-minimalist.png",
+      "id": "8sGw0BjEwbM"
+    },
+    {
+      "product_id": "PROD029",
+      "category": "men",
+      "product_name": "Men Trendy Sneakers",
+      "brand": "Myntra",
+      "description": "Modern men's sneakers designed for casual streetwear looks.",
+      "price": 1399,
+      "original_price": 2799,
+      "discount": "50%",
+      "rating": 4.4,
+      "rating_count": 1678,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "White",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2020/8/20/be0b0d6f-7c72-4752-859f-ee44902ff7171597912691244-Content-footwear-trend-sneakersmen.jpg",
+      "id": "aiLVDw6QfT8"
+    },
+    {
+      "product_id": "PROD030",
+      "category": "men",
+      "product_name": "Nike Revolution Sports Shoes",
+      "brand": "Nike",
+      "description": "Popular lightweight running shoes designed for sports and daily workouts.",
+      "price": 2299,
+      "original_price": 4499,
+      "discount": "49%",
+      "rating": 4.6,
+      "rating_count": 2678,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2020/8/21/eedc6c0c-c28b-4ccb-952f-a302c96c59ba1598030134978-Content-mostselling-Sportswear-Nikerevolution.jpeg",
+      "id": "mR-kAfu78Nk"
+    },
+    {
+      "product_id": "PROD031",
+      "category": "women",
+      "product_name": "Women Everyday Kurta",
+      "brand": "Myntra",
+      "description": "Comfortable everyday ethnic kurta with a simple elegant design.",
+      "price": 799,
+      "original_price": 1599,
+      "discount": "50%",
+      "rating": 4.4,
+      "rating_count": 1098,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Blue",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/83d9ca97-4aa3-46ce-bd28-b135d3b94a021595935030673-Content-ethnicwear-essentials-everydaykurtas.jpg",
+      "id": "0bqEPCYWrF0"
+    },
+    {
+      "product_id": "PROD032",
+      "category": "unisex",
+      "product_name": "Activewear Sports Outfit",
+      "brand": "Myntra",
+      "description": "Comfortable activewear designed for gym, yoga and daily workouts.",
+      "price": 899,
+      "original_price": 1799,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 845,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/4aa58fe6-8c61-4e37-9fa8-436c31aecb211597840566511-Content-sportswear-essentials-activewear.png",
+      "id": "cu3r-nG9EW0"
+    },
+    {
+      "product_id": "PROD033",
+      "category": "unisex",
+      "product_name": "Casual Flip Flops",
+      "brand": "Myntra",
+      "description": "Lightweight and comfortable flip flops for everyday use.",
+      "price": 399,
+      "original_price": 799,
+      "discount": "50%",
+      "rating": 4.2,
+      "rating_count": 1234,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Blue",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/49dd1ce9-d627-4c6e-b544-4be7e1f24a091597840342867-Content-footwear-essentials-flipflops.jpg",
+      "id": "PbBO8xtKAyk"
+    },
+    {
+      "product_id": "PROD034",
+      "category": "men",
+      "product_name": "Men Sporty Watch",
+      "brand": "Myntra",
+      "description": "Stylish sporty watch designed for everyday and active use.",
+      "price": 999,
+      "original_price": 1999,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 765,
+      "sizes": [
+        "One Size"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/bddd9c73-e4f1-43c0-a073-2ff3c0e376b51595934830554-Content-Accesories-men-Sporty-Watches_.jpg",
+      "id": "IF34p9iXIOU"
+    },
+    {
+      "product_id": "PROD035",
+      "category": "unisex",
+      "product_name": "Fastrack Fashion Watch",
+      "brand": "Fastrack",
+      "description": "Modern fashion watch with a sporty and youthful design.",
+      "price": 1299,
+      "original_price": 2499,
+      "discount": "48%",
+      "rating": 4.4,
+      "rating_count": 1456,
+      "sizes": [
+        "One Size"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/8363b55c-446f-4de2-bc5b-e75fd6fdfb2d1597840217862-Content-accessories-brand-fastrack.png",
+      "id": "eBsObwqbhp4"
+    },
+    {
+      "product_id": "PROD036",
+      "category": "women",
+      "product_name": "Women White Ethnic Wear",
+      "brand": "Myntra",
+      "description": "Elegant white ethnic outfit suitable for festive and traditional occasions.",
+      "price": 1199,
+      "original_price": 2399,
+      "discount": "50%",
+      "rating": 4.5,
+      "rating_count": 876,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "White",
+      "img_url": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/a9f68785-e282-425a-b270-c978c387b0f31597840342635-Content-ethnicwear-color-whites.jpg",
+      "id": "t92WKj7M2pc"
+    },
+    {
+      "product_id": "PROD037",
+      "category": "unisex",
+      "product_name": "Outdoor Casual Footwear",
+      "brand": "Myntra",
+      "description": "Durable outdoor footwear designed for travel and casual outdoor activities.",
+      "price": 1499,
+      "original_price": 2999,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 654,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Brown",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/a84d687a-1ff3-4b06-a47b-48021ba7cec11597840342959-Content-footwear-occasion-outbackoutdoor.png",
+      "id": "Lz2dZi3lBOU"
+    },
+    {
+      "product_id": "PROD038",
+      "category": "men",
+      "product_name": "Men Sporty Watch",
+      "brand": "Myntra",
+      "description": "Sporty and stylish men's watch suitable for casual everyday wear.",
+      "price": 1099,
+      "original_price": 2199,
+      "discount": "50%",
+      "rating": 4.3,
+      "rating_count": 812,
+      "sizes": [
+        "One Size"
+      ],
+      "color": "Black",
+      "img_url": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/bddd9c73-e4f1-43c0-a073-2ff3c0e376b51595934830554-Content-Accesories-men-Sporty-Watches_.jpg",
+      "id": "8PW6smSXkIo"
+    }
+  ],
+  "cart": [],
+  "order": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
